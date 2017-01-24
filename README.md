@@ -10,7 +10,11 @@ Contents:
 3. 143 Local Government KPIs & Scorecard Measures (local-government-kpis.xlsx)
 
 
-1. The Four Perspectives for Government
+
+
+
+
+The Four Perspectives for Government
 
 
 Customer -> The International Community
@@ -30,7 +34,11 @@ Financial -> Financial
 Simple as it sounds, metrics on the Government’s revenue, expenditure, debt.
 
 
-2. Resources to Learn More:
+
+
+
+
+Resources to Learn More:
 
 Balanced Scorecard: Step-by-Step for Government and Nonprofit Agencies 
   https://www.amazon.com/Balanced-Scorecard-Step-Step-Government/dp/0470180021
